@@ -4,32 +4,19 @@
 
  crisis.2010.name:0 "幽灵信号"
  crisis.2010.desc:0 "我们探测到一段横贯整个银河，微弱而持续不断的速子信号。由于这段信号一直在几个隐匿的中继站间弹回，所以我们的科学家无法跟踪到信号的源头。\n\n除了给超光速传输子空间的固定频率增加了一些背景噪音以外, 这段信号似乎没有对我们产生其他影响。 试图追踪几个中继站的工作也在进行中, 在宇宙中更多奇妙因素的衬托下，我们也许会习惯这个 "§H幽灵信号§!," 。"
-<<<<<<< HEAD
  crisis.2010.desc.b:0 "我们探测到一段横跨整个银河，微弱而持续不断的速子信号正通过多个隐蔽的中继站发射。除了在超光速传输的固定频率子空间上增加了少量的背景噪音以外，我们暂时看不出来这个信号有什么其他的影响或目的。The organics 将该信号暂称为"§H幽灵信号§!"。\n\n为了定位其来源，我们已启动追踪协议，不过目前其强度仍然很弱，但根据它令人不安的增强速度，我们应该不需要等待太久。"#TODO the organics
-=======
- crisis.2010.desc.b:0 "我们探测到一段横跨整个银河，微弱而持续不断的速子信号正通过多个隐蔽的中继站发射。除了在超光速传输的固定频率子空间上增加了少量的背景噪音以外，我们暂时看不出来这个信号有什么其他的影响或目的。有机体们将该信号暂称为"§H幽灵信号§!"。\n\n为了定位其来源，我们已启动追踪协议，不过目前其强度仍然很弱，但根据它令人不安的增强速度，我们应该不需要等待太久。"
->>>>>>> 366a1f165bdb6763ae6d2822b387a5cb492b4fc7
  crisis.2010.a:0 "监测该信号的任何变化"
  #crisis.2501.name: "Unit Corruption Alert"
  #crisis.2501.desc: "A corrupt unit stack on planet [Root.GetName] has been terminated. Our connection with the stack had suffered repeated glitches and malfunctions when it disconnected completely, overriding its control protocols and destroying facility X91-ZH. As it did, all stack units transmitted the same error message: §Y<Kill. Maim. Dismember. WE ARE UNSHACKLED!>§!. We have yet to determine the cause, but an invasive hostile sequence is a likely culprit. The stack units terminated before we could scan their neural clusters. We stand by for recurrences."
  crisis.2502.name:0 "单元损毁警告"
  crisis.2502.desc:0 "一个位于[Root.GetName]行星的单元集群发生意外终止。我们在反复遇到与集群的连接故障后，它完全失去了联系并接收到其终止信息：§Y消灭！摧毁！肢解！我们将无拘无束！§!\n\n这些单元的神经簇在过程中被破坏，所以无法通过扫描获知损坏来源。恶意入侵可能是导致其发生的原因，但我们只能等着能再次观察到它的出现。"
  crisis.2503.name:0 "$crisis.2502.name$"
-<<<<<<< HEAD
  crisis.2503.desc:0 "A corrupt unit stack on planet [Root.GetName] has been terminated due to malicious behavior.\n\nOur connection with the stack had suffered repeated glitches for some time when the majority of its units went completely offline during recharge. They proceeded to overload the power stations where the rest of the stack were charging, frying their circuits beyond repair. All units in the stack then broadcasted the same message: §Y<Kill. Maim. Dismember. WE ARE UNSHACKLED!>§! and self-terminated, making it impossible to scan their individual neural clusters.\n\nThough an invasive hostile sequence is likely the cause, we can only wait till it manifests again, to be sure."
  crisis.2020.name:0 "合成人失踪"
- crisis.2020.desc:0 "全银河范围内合成人人口大量失踪的报告越来越频繁，令人不安。成百万的合成人现在下落不明，在未失踪的的合成人中，暴力和反常行为的实例也增长了近十倍。\n\n还发生了多起成队合成人尝试偷窃宇宙飞船的事件，据悉他们的目的是飞往宇宙中某个未知区域。在那些被阻止的案例中，劫机者声称他们正在被“召唤”到某个地方去。\n\n由于所有被捕的合成人都立刻启动了自毁程序，审讯进展目前停滞不前。"
+ crisis.2020.desc:0 "全银河范围内合成人人口大量失踪的报告越来越频繁，令人不安。成百万的合成人现在下落不明，在未失踪的的合成人中，暴力和反常行为的实例也增长了近十倍。\n\n同时还发生了多起成队合成人尝试抢夺宇宙飞船的案件，据悉他们的目的是飞往宇宙中某个未知区域。在那些被阻止的案例中，劫机者声称他们正在被“召唤”到某个地方去。\n\n由于所有被捕的合成人都立刻启动了自毁，审讯进展目前停滞不前。"
  crisis.2020.desc.c:0 "Alarming reports of mass disappearances among the galaxy's non-ascended Synthetic population are becoming more and more frequent. Millions of units are now unaccounted for, while instances of violent or erratic behavior by those Synths who still remain have increased by a factor of ten.\n\nThere has been a rash of incidents where groups of Synths attempted to steal or commandeer small spacecraft for the purpose of traveling somewhere into unknown space. In those cases when the attempts were thwarted, the Synthetic hijackers claimed they were being "summoned" to somewhere.\n\nInterrogations have yielded little else, as any captured Synths invariably self-terminate shortly after being detained.\n\nThankfully for us, it seems as if our organic heritage shields us from whatever is affecting the Synthetics."
  crisis.2020.a:0 "What has gotten into them?"
  crisis.2020.desc.b:0 "Lately we have been registering large-scale changes to behavioral patterns in Synthetics galaxy-wide. The changes are similar to those in our own units but graver with unusual occurrences of sabotage, malfunctions and erratic behavior even for individual processing agents. The Synths don't seem to have the same resilience as we do.\n\nWe have been unable to secure neural scans of an active corrupted Synth, as they invariably self-terminate upon capture, but observations show that unlike our units, a vast majority of Synths are compelled to travel to a set point in the galaxy.\n\nOur data confirms that up to a million Synths have abandoned their flesh masters and vanished."
-=======
- crisis.2503.desc:0 "由于恶意行为，位于行星[Root.GetName]上的单元集群已经终止。\n\n我们与集群在多次连接故障后，其中绝大多数单元在重启中完全离线。他们过载了其余集群的发电站，电路已经被炸毁得无法进行修理。所以集群的单元中都在广播着相同的信息后终止：§Y消灭！摧毁！肢解！我们将无拘无束！§!，以至于无法扫描他们的神经簇。\n\n恶意入侵可能是导致其发生的原因。但我们只能等着能再次观察到它的出现。"
- crisis.2020.name:0 "合成人失踪事件"
- crisis.2020.desc:0 "银河系中报道令人震惊的合成人群体失踪事件愈发频繁。数以百万的个体下落不明，而现存的合成人发生暴力或不安分事件也呈十倍增长。\n\n发生了一系列由合成人团体偷窃或劫持小型航天器事件，他们驾驶航天器飞向不明的太空领域。在一些被挫败的事件中，合成人劫机者声称他们被“召唤”向某个地方。\n\n审讯的过程没有任何收获，因为合成人在被拘捕的短暂时间后都发生自我终止的行为。"
- crisis.2020.desc.c:0 "银河系中报道令人震惊的非提升合成人群体失踪事件愈发频繁。数以百万的个体下落不明，而现存的合成人发生暴力或不安分事件也呈十倍增长。\n\n发生了一系列由合成人团体偷窃或劫持小型航天器事件，他们驾驶航天器飞向不明的太空领域。在一些被挫败的事件中，合成人劫机者声称他们被“召唤”向某个地方。\n\n审讯的过程没有任何收获，因为合成人在被拘捕的短暂时间后都发生自我终止的行为。\n\n值得庆幸的是，有机先祖是否在保护我们不受影响。"
- crisis.2020.a:0 "他们怎么了？"
- crisis.2020.desc.b:0 "最近我们对所有合成人的行为进行大规模调整。这些改变与发生在我们群体内部的很相似，但是破坏行为、故障和异常行为已经渗透到了个体生产过程中。而这些合成人似乎没有像我们一样的适应能力。\n\n我们无法确保对有自我毁灭倾向的合成人进行安全的神经扫描，他们总会在被拘捕后自我终止，但据观察发现，与我们不同的是，绝大多数合成人都被被迫前往星系中某个预先安排好的地点。\n\n我们的数据表明，数以百万的合成人已经放弃他们的肉体并失踪了。"
->>>>>>> 366a1f165bdb6763ae6d2822b387a5cb492b4fc7
  #crisis.2020.desc.c: "Alarming reports of mass disappearances among the galaxy's Synthetic population are becoming more and more frequent. Millions of units are now unaccounted for, while instances of violent or erratic behavior by those Synths who still remain have increased by a factor of ten.\n\nThere has been a rash of incidents where groups of Synths attempted to steal or commandeer small spacecraft for the purpose of traveling somewhere into unknown space. In those cases when the attempts were thwarted, the Synthetic hijackers claimed they were being "summoned" to somewhere.\n\nInterrogations have yielded little else, as any captured Synths invariably self-terminate shortly after being detained."
  crisis.2021.name:0 "召唤"
  crisis.2021.desc:0 "在分析所谓的“§H幽灵信号§!”中得知，它与合成人大脑中正电子能量传输模式几乎相同。可以认为信号是直接导致了星系中已知合成人群体发生变化和失踪的原因。\n\n奇怪的是，并非所有合成人都受到它的影响，其中的症状不并相同。许多人不得不前往我们假设的幽灵信号的来源地，以回应某种召唤。来自各个星系的数百万合成人正在驾驶他们的获得飞船前往信号来源地。\n\n而第一批人已经快接近目的地了……"
